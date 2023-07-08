@@ -1,0 +1,19 @@
+{
+  "name": "blog-file-saving",
+  "version": "1.0.0",
+  "description": "This is for my blog example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Choco-milk-for-u/blog-file-saving.git"
+  },
+  "author": "choco-for-u",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Choco-milk-for-u/blog-file-saving/issues"
+  },
+  "homepage": "https://github.com/Choco-milk-for-u/blog-file-saving#readme"
+}
